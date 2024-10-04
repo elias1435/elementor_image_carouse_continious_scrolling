@@ -1,0 +1,5 @@
+// you can add a your selector to avoid effect this css to other image carousel
+selector .swiper-wrapper{
+  -webkit-transition-timing-function: linear !important;
+  transition-timing-function: linear !important; 
+}
